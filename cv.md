@@ -23,14 +23,14 @@ Before that I worked as a graphic designer
 
 ## Skills
 *****
-* HTML, CSS (Fundamentals)
+* HTML, CSS 
 * Adobe Photoshop
 
 ## Education and courses
 *****
-* RSSchool - JS/FE Pre-School 2022Q2
+* RSSchool - JS/FE Pre-School 2022Q4
 
 ## Language
 ******
 * **Russian** - native speaker
-* **English** - A2 (keep learning)
+* **English** - B1 (keep learning)
