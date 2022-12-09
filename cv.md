@@ -13,6 +13,14 @@
 I'm learning Front-End Development in Rolling Scopes School
 Before that I worked as a graphic designer
 
+## Code example
+*****
+```
+<script>
+	alert( "Я JavaScript!" );
+</script>
+```
+
 ## Skills
 *****
 * HTML, CSS (Fundamentals)
